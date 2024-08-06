@@ -1,4 +1,4 @@
-
+![logo](https://github.com/SumitCEH/SumitCEH/blob/main/20240801_170334.jpg) 
 <h1 align="center">Hi 👋, I'm Sumit Raj</h1>
 <h3 align="center">A passionate Software Engineer and Game Developer from India</h3>
 
