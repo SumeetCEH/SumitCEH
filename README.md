@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitceh&label=Profile%20views&color=0e75b6&style=flat" alt="sumitceh" /> </p>
 
-- 🔭 I’m currently studying **Computer Application**
+- 🔭 I’m currently studying masters of **Computer Application**
 
 - 🌱 I’m currently learning **CyberSecurity,CEH as my core subjects**
 
