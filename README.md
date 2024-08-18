@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitceh&label=Profile%20views&color=0e75b6&style=flat" alt="sumitceh" /> </p>
 
-- 🔭 I’m currently studying masters of **Computer Application**
+- 🔭 Continuing with masters of **Computer Application**
 
-- 🌱 I’m currently learning **CyberSecurity,CEH as my core subjects**
+- 🌱 Learnt **CyberSecurity,CEH as my core subjects**
 
 - 👨‍💻 All of my projects are available at [Https://t.me/ImSraj](Https://t.me/ImSraj)
 
